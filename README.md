@@ -10,9 +10,10 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 * Edit task
 
 ### Technologies used:
-* HTML
+* HTML5
 * CSS
 * JavaScript
+* 
 
 
 ### App demo
